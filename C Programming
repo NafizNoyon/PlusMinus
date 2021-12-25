@@ -5,7 +5,7 @@
 #include <algorithm>
 using namespace std;
 
-
+//new author
 int main() {
     int N, n, total;
     float pos = 0., neg = 0., zer = 0.;
